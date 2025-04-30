@@ -1,0 +1,36 @@
+.contact {
+    width: 350px;
+  }
+  .contact h2 {
+    font-size: 44px;
+    margin: 0 0 15px;
+    line-height: 1.1;
+  }
+  .contact p {
+    color: #ccc;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  input, textarea {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  textarea {
+    resize: none;
+    min-height: 230px;
+  }
+  button {
+    background-color: #e53935;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

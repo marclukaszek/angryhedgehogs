@@ -1,0 +1,107 @@
+.players {
+    background-color: #0e0e0e;
+    padding: 20px 0;
+  }
+  
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .players h2 {
+    text-align: left;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+
+  .players h1 {
+    font-size: 48px;
+    margin: 0 0 15px;
+    line-height: 1.1;
+  }
+  
+  .carousel-wrapper {
+    position: relative;
+  }
+  
+  .carousel {
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE 10+ */
+    cursor: grab;
+    max-width: 100%;
+  }
+  .carousel.active {
+    cursor: grabbing;
+  }
+  .carousel::-webkit-scrollbar {
+    display: none; /* Chrome/Safari */
+  }
+  
+  .player-list {
+    display: flex;
+    gap: 20px;
+    width: max-content;
+    padding: 10px 0;
+    max-width: 100%;
+  }
+  
+  .player-card {
+    background-color: #1e1e1e;
+    border: 2px solid #e53935;
+    border-radius: 8px;
+    width: 180px;
+    min-width: 180px;
+    text-align: center;
+    padding: 10px;
+    flex-shrink: 0;
+  }
+  
+  .player-card img {
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  .player-card h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+  }
+  
+  .player-card p {
+    margin: 6px 0 0;
+    color: #e53935;
+    font-size: 13px;
+  }
+  
+  /* Strzałki przewijania */
+  .scroll-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(229, 56, 53, 0.548);
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 1;
+    transition: background-color 0.3s;
+  }
+  
+  .scroll-btn:hover {
+    background-color: rgba(229, 56, 53, 0.973);
+  }
+  
+  .scroll-btn.left {
+    left: -20px;
+  }
+  
+  .scroll-btn.right {
+    right: -20px;
+  }
+  

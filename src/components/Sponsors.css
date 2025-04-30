@@ -1,0 +1,19 @@
+.sponsors {
+    width: 500px;
+  }
+  
+  .sponsors h2 {
+    font-size: 44px;
+    margin: 0 0 15px;
+    line-height: 1.1;
+  }
+  
+  .sponsor-list {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+  .sponsor-list img {
+    height: 60px;
+    margin-bottom: auto;
+  }
