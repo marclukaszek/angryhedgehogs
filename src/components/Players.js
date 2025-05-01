@@ -6,13 +6,17 @@ import grel from '../assets/grel.png';
 import jeabunny from '../assets/jeabunny.png';
 import weteran from '../assets/weteran.png';
 import yamakasi from '../assets/yamakasi.png';
+import bam from '../assets/bam.png';
+import prosto from '../assets/prosto.png'
 
 const players = [
   { name: 'Alno', role: 'TEAM LEADER / RIFFLER / AWPER', img: alno },
+  {name: '.BaM.', role: 'RIFFLER', img: bam},
   { name: 'Frado', role: 'RIFFLER', img: frado },
   { name: 'Grel', role: 'ENTRY FRAGGER / RIFFLER', img: grel },
   { name: 'Jeabunny', role: 'RIFFLER / AWPER', img: jeabunny },
   { name: 'Weteran PVP', role: 'RIFFLER', img: weteran },
+  { name: 'proSTO', role: 'RIFFLER / COMMMENTATOR', img: prosto},
   { name: 'Yamakasi', role: 'ANCHOR / RIFFLER', img: yamakasi }
 ];
 
