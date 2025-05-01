@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//github.io/marclukaszek/angryhedgehogs/static/css/main.04e2425f.css",
-    "main.js": "//github.io/marclukaszek/angryhedgehogs/static/js/main.c6123f8d.js",
-    "static/js/453.9f2870bb.chunk.js": "//github.io/marclukaszek/angryhedgehogs/static/js/453.9f2870bb.chunk.js",
-    "static/media/yamakasi.png": "//github.io/marclukaszek/angryhedgehogs/static/media/yamakasi.9020f373d1344746cd7f.png",
-    "static/media/weteran.png": "//github.io/marclukaszek/angryhedgehogs/static/media/weteran.d46e41840ab520a5d8e1.png",
-    "static/media/frado.png": "//github.io/marclukaszek/angryhedgehogs/static/media/frado.98dd048b8eafc1b17756.png",
-    "static/media/logo2.png": "//github.io/marclukaszek/angryhedgehogs/static/media/logo2.2af5da3ae60b70a79892.png",
-    "static/media/jeabunny.png": "//github.io/marclukaszek/angryhedgehogs/static/media/jeabunny.5f99571689602ba1f477.png",
-    "static/media/alno.png": "//github.io/marclukaszek/angryhedgehogs/static/media/alno.a544532c2a01dcc48c7c.png",
-    "static/media/grel.png": "//github.io/marclukaszek/angryhedgehogs/static/media/grel.969c71b5dbfd0f9297e9.png",
-    "static/media/yamacode.webp": "//github.io/marclukaszek/angryhedgehogs/static/media/yamacode.ff7b42c2f6d7d3dd74c7.webp",
-    "index.html": "//github.io/marclukaszek/angryhedgehogs/index.html",
-    "main.04e2425f.css.map": "//github.io/marclukaszek/angryhedgehogs/static/css/main.04e2425f.css.map",
-    "main.c6123f8d.js.map": "//github.io/marclukaszek/angryhedgehogs/static/js/main.c6123f8d.js.map",
-    "453.9f2870bb.chunk.js.map": "//github.io/marclukaszek/angryhedgehogs/static/js/453.9f2870bb.chunk.js.map"
+    "main.css": "/angryhedgehogs/static/css/main.04e2425f.css",
+    "main.js": "/angryhedgehogs/static/js/main.29f2b5b1.js",
+    "static/js/453.9f2870bb.chunk.js": "/angryhedgehogs/static/js/453.9f2870bb.chunk.js",
+    "static/media/yamakasi.png": "/angryhedgehogs/static/media/yamakasi.9020f373d1344746cd7f.png",
+    "static/media/weteran.png": "/angryhedgehogs/static/media/weteran.d46e41840ab520a5d8e1.png",
+    "static/media/frado.png": "/angryhedgehogs/static/media/frado.98dd048b8eafc1b17756.png",
+    "static/media/logo2.png": "/angryhedgehogs/static/media/logo2.2af5da3ae60b70a79892.png",
+    "static/media/jeabunny.png": "/angryhedgehogs/static/media/jeabunny.5f99571689602ba1f477.png",
+    "static/media/alno.png": "/angryhedgehogs/static/media/alno.a544532c2a01dcc48c7c.png",
+    "static/media/grel.png": "/angryhedgehogs/static/media/grel.969c71b5dbfd0f9297e9.png",
+    "static/media/yamacode.webp": "/angryhedgehogs/static/media/yamacode.ff7b42c2f6d7d3dd74c7.webp",
+    "index.html": "/angryhedgehogs/index.html",
+    "main.04e2425f.css.map": "/angryhedgehogs/static/css/main.04e2425f.css.map",
+    "main.29f2b5b1.js.map": "/angryhedgehogs/static/js/main.29f2b5b1.js.map",
+    "453.9f2870bb.chunk.js.map": "/angryhedgehogs/static/js/453.9f2870bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04e2425f.css",
-    "static/js/main.c6123f8d.js"
+    "static/js/main.29f2b5b1.js"
   ]
 }
