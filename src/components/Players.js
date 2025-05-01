@@ -15,8 +15,8 @@ const players = [
   { name: 'Frado', role: 'RIFFLER', img: frado },
   { name: 'Grel', role: 'ENTRY FRAGGER / RIFFLER', img: grel },
   { name: 'Jeabunny', role: 'RIFFLER / AWPER', img: jeabunny },
-  { name: 'Weteran PVP', role: 'RIFFLER', img: weteran },
   { name: 'proSTO', role: 'RIFFLER / COMMMENTATOR', img: prosto},
+  { name: 'Weteran PVP', role: 'RIFFLER', img: weteran },
   { name: 'Yamakasi', role: 'ANCHOR / RIFFLER', img: yamakasi }
 ];
 
