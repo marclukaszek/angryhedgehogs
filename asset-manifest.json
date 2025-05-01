@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/angryhedgehogs/static/css/main.04e2425f.css",
-    "main.js": "/angryhedgehogs/static/js/main.0614a54b.js",
+    "main.js": "/angryhedgehogs/static/js/main.a9ce2613.js",
     "static/js/453.9f2870bb.chunk.js": "/angryhedgehogs/static/js/453.9f2870bb.chunk.js",
     "static/media/yamakasi.png": "/angryhedgehogs/static/media/yamakasi.9020f373d1344746cd7f.png",
     "static/media/weteran.png": "/angryhedgehogs/static/media/weteran.d46e41840ab520a5d8e1.png",
@@ -15,11 +15,11 @@
     "static/media/yamacode.webp": "/angryhedgehogs/static/media/yamacode.ff7b42c2f6d7d3dd74c7.webp",
     "index.html": "/angryhedgehogs/index.html",
     "main.04e2425f.css.map": "/angryhedgehogs/static/css/main.04e2425f.css.map",
-    "main.0614a54b.js.map": "/angryhedgehogs/static/js/main.0614a54b.js.map",
+    "main.a9ce2613.js.map": "/angryhedgehogs/static/js/main.a9ce2613.js.map",
     "453.9f2870bb.chunk.js.map": "/angryhedgehogs/static/js/453.9f2870bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04e2425f.css",
-    "static/js/main.0614a54b.js"
+    "static/js/main.a9ce2613.js"
   ]
 }
