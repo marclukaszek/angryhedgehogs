@@ -5,7 +5,7 @@ import frado from '../assets/frado.png';
 import grel from '../assets/grel.png';
 import jeabunny from '../assets/jeabunny.png';
 import weteran from '../assets/weteran.png';
-import yamakasi from '../assets/yamakasi.png';
+import yamakasi from '../assets/yamakasi2.png';
 import bam from '../assets/bam.png';
 import prosto from '../assets/prosto.png'
 
